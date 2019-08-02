@@ -1,0 +1,16 @@
+img{
+    width: 85px;
+
+   
+}
+
+   li {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: aquamarine;
+}
+
+
+
+
